@@ -1,0 +1,172 @@
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.header .cin{
+    width: 50vw;
+}
+.header .nav{
+    width: 50vw;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.header .nav a{
+    text-decoration: none;
+    color: black;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+.main .para{
+    width: 20vw;
+}
+.main .pos{
+    width: 80vw;
+    
+}
+.main .para h1{
+    font-size: xxx-large;
+}
+.main .para button{
+    margin: 18%;
+    border-radius: 30px;
+    padding: 20px;
+    width: 10vw;   
+}
+.main .para p{
+    font-size:small;
+    
+}
+.lin{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 5%;
+}
+
+.lin .info p{
+    font-weight:bold;
+}
+.lin .bt{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 90%;
+}
+ .tnt{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.nameo{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+ /* .list{
+   
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+    
+}
+.list .name{
+    text-align: -webkit-center;
+    position: relative;
+    right:30%;
+   width: 100%;
+   
+}
+.list .tr button{
+    padding: 8px;
+    border-radius: 10px;
+   color:aliceblue;
+    background-color:rgba(46, 46, 48, 0.863);
+    position: relative;
+    left: 27%;
+}
+
+.listt{
+    
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.listt .name{
+    text-align: -webkit-center;
+    
+}
+.listt .tr button{
+    padding: 8px;
+    border-radius: 10px;
+   color:aliceblue;
+    background-color:rgba(46, 46, 48, 0.863);
+    position: relative;
+    left: 27%;    
+    
+}
+.listtt{
+   
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.listtt .name{
+    text-align: -webkit-center;
+   
+}
+.listtt .tr button{
+    padding: 8px;
+    border-radius: 10px;
+   color:aliceblue;
+    background-color:rgba(46, 46, 48, 0.863);
+    position: relative;
+    left: 27%;    
+    
+}
+
+
+ .list .name{
+    position: relative;
+    right: 38%;
+    
+} 
+ .list .name .tr button{
+    padding: 8px;
+    border-radius: 10px;
+   color:aliceblue;
+    background-color:rgba(46, 46, 48, 0.863);
+}  
+  .lis{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.li{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+} 
+ .footer{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+.cont{
+    align-items: center;
+}  */
